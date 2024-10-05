@@ -1,0 +1,3 @@
+CREATE(a:User {uid:'Mxpajw69givCD7UDgOnMkq9qlIAb', firstName: 'lotem', lastName:'michael', email:'lotemichael@gmail.com', gender:'female', lastSeen: 0})
+CREATE(b:User {uid:'kEIr0cFicwMbjCwQ7KCZgUaiJ1jT', firstName: 'nevo', lastName:'michael', email:'nevo.mich2000@gmail.com', gender:'male', lastSeen: 0})
+CREATE(c:User {uid:'vdoZWDefjM2X3T7SC8QkAgQm8uo4', firstName: 'guy', lastName:'michael', email:'guy.michael275@gmail.com', gender:'male', lastSeen: 0})
